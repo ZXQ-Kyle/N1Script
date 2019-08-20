@@ -1,0 +1,15 @@
+[Unit]
+Description=Dc1 Service
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/java -jar /opt/dc1server.jar
+ExecReload=/bin/kill -USR1 $MAINPID
+Restart=always
+RestartSec=30
+StartLimitInterval=400
+StartLimitBurst=5
+KillMode=process
+
+[Install]
+WantedBy=multi-user.target
