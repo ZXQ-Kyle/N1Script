@@ -35,3 +35,6 @@ bash dc1.sh uninstall
 手机使用8800端口连接服务器
 
 全部文件都在files文件夹中
+
+### docker安装
+https://hub.docker.com/r/ponyopapa/dc1_server
