@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-JAR_URL="http://pavt.ponyo.info:10088/file/dc1server.jar"
-SERVICE_URL="http://pavt.ponyo.info:10088/file/dc1server.service"
+JAR_URL="https://raw.githubusercontent.com/ZXQ-Kyle/N1Script/master/Files/dc1server.jar"
+SERVICE_URL="https://raw.githubusercontent.com/ZXQ-Kyle/N1Script/master/Files/dc1server.service"
 
 #手动下载文件信息提示
 function echoManualDownloadInfo(){
