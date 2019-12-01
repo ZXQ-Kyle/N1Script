@@ -1,5 +1,9 @@
 # N1Script
 
+## 开源服务端源码
+
+https://github.com/ZXQ-Kyle/Dc1Server
+
 ### 更新记录：
 2019.9.23
 v2.3(需更新服务端及手机端)
