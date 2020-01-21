@@ -1,8 +1,10 @@
 # N1Script
 
-## 开源服务端源码
+## 开源服务端和客户端源码
 
 https://github.com/ZXQ-Kyle/Dc1Server
+
+https://github.com/ZXQ-Kyle/Dc1Control
 
 ### 更新记录：
 
