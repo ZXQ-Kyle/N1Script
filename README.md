@@ -79,25 +79,5 @@ TODO:
 
 ---
 
-### N1脚本
-
-dc1.sh是安装dc1服务器的脚本
-
-服务端安装
-```
-wget https://raw.githubusercontent.com/ZXQ-Kyle/N1Script/master/dc1.sh
-bash dc1.sh
-```
-
-服务端卸载
-```
-wget https://raw.githubusercontent.com/ZXQ-Kyle/N1Script/master/dc1.sh
-bash dc1.sh uninstall
-```
-
-手机使用8800端口连接服务器
-
-全部文件都在files文件夹中
-
-### docker安装
-https://hub.docker.com/r/ponyopapa/dc1_server
+## 安装
+查看说明https://github.com/ZXQ-Kyle/N1Script/blob/master/Dc1server%E5%AE%89%E8%A3%85%E8%AF%B4%E6%98%8E.md
