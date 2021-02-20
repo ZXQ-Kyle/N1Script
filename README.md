@@ -4,7 +4,7 @@
 
 https://github.com/ZXQ-Kyle/Dc1Server
 
-https://github.com/ZXQ-Kyle/Dc1Control
+https://github.com/ZXQ-Kyle/dc1control_flutter
 
 ### 更新记录：
 
